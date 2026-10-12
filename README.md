@@ -33,7 +33,9 @@ The Bash script:
 Example:
 
 ./automated_nmap.sh <target_IP> 80,443,22,3389
+
 Portfolio Note: The original Bash script used for this academic project was not retained. The script included in this repository is a reconstructed portfolio version based on the workflow and functionality documented in the original project presentation.
+
 ## Lab Results
 During the project, the script was tested against a target in an authorized lab environment. The scan successfully completed the automated workflow and generated the required report.
 
